@@ -79,6 +79,7 @@
 - [Algolia](https://www.algolia.com/) – Hosted search API powering fast, relevant search UX.
 - [SendGrid](https://sendgrid.com/) – Email API for transactional and marketing emails.
 - [Twilio](https://www.twilio.com/) – Messaging, voice, and SMS API for customer communications.
+- [PlaceCall](https://voygr.tech/placecall/) – Phone-calling API for AI products that calls US businesses and returns a structured outcome and transcript.
 
 ## Customer Support & Communication
 
